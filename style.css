@@ -208,6 +208,18 @@ h3 {
 
 }
 
+.Skills .container-image{
+    width: 30rem;
+    margin-inline-start: 22rem;
+    min-height: 9rem;
+    
+}
+
+.Skills .container-image img{
+    width: 28%;
+    margin-right: 1rem;
+}
+
 .Certifications {
     background-color: rgba(201, 161, 113, 0.733);
     padding: 2rem var(--bgColor-2);
